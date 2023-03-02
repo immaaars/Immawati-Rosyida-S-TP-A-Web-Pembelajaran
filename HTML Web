@@ -1,0 +1,57 @@
+<html> 
+<head></head>
+<body></body>
+    <h1 style="color:rgba(60, 34, 202, 0.733);font-family:Georgia, 'Times New Roman', Times, serif; text-align:justify">Ruang Wisata Sejarah</h1>
+   <center><h2>Web Sederhana Mengenai Sejarah Berbagai Tempat Wisata di Kota Madinah dan Mekkah</h2></center> 
+    <h3 style="background-color:blanchedalmond;border-color:coral;">Special Topic</h3>
+    <center><h3>Membahas Berbagai Macam Sejarah Tempat - Tempat Wisata Religi Madinah dan Mekkah</h3></center>
+
+    <p>Kota Madinah dan juga Kota Mekkah merupakan dua kota suci utama bagi umat muslim di seluruh dunia.
+       Dari kedua tempat ini, ada beberapa lokasi yang dianggap memiliki sejarah penting dalam perkembangan Islam. 
+       Lokasi tersebut seringkali menjadi tujuan utama para jamaah yang sedang beribadah haji maupun umroh.   
+    </p>
+<x1 style="color:rgba(18, 20, 164, 0.733);font-family:Georgia, 'Times New Roman', Times, serif; text-align:justify" >TEMPAT BERSEJARAH KOTA MADINAH DAN MEKKAH</x1>
+
+<justify><p>1. Masjid Nabawi</p></justify>
+
+<justify><p>adalah sebuah masjid di kota Madinah, Arab Saudi. Masjid Nabawi adalah masjid ketiga yang dibangun dalam sejarah Islam dan menjadi salah satu masjid terbesar kedua di dunia. Masjid ini dianggap sebagai tempat suci oleh umat Islam selain Masjidil Haram di Makkah</p></justtify>
+<center><img src="masjid nabawi.jpeg"; style="height: 350px;"/></center>
+
+<justify><p>2. Jabal Uhud</p></justify>
+
+<justify><p>Jabal Uhud bukan gunung biasa. Jabal Uhud memiliki nilai sejarah bagi umat islam. Tak seperti gunung atau bukit lainnya di Kota Madinah, Jabal Uhud memiliki keistimewaan tersendiri. Bahkan Jabal Uhud adalah salah satu gunung yang dijanjikan kelak ada di surga.</p></justtify>
+<center><img src="jabal uhud.jpg"; style="height: 270px;"/></center>
+
+<justify><p>3.Raudhah </p></justify>
+
+<justify><p></p>Raudhah adalah tempat yang mulia dan istimewa. Sebab di sinilah sekitar 1400 tahun yang lalu, Rasulullah SAW beribadah, sholat, menerima wahyu, berdakwah dan juga tempat sholat para sahabat.</justtify>
+<center><img src="raudha.jpeg"; style="height: 500px;"/></center>
+
+<h1>Video Pembangunan MAsjid Nabawi</h1>
+    <!-- cara bikin video-->
+    <center><video width="560"controls src="Video Pembangunan Masjid Nabawi.mp4"></video></center>
+    <br>
+    <br>
+    <center><audio controls src="audio web.mp3"></audio></center>
+
+
+</body>
+
+<ul><a href="Lanjutan Madinah.html" target="_blank">Wisata Religi Kota Madinah</a></ul>
+
+<ul><a href="Lanjutan Mekkah.html" target="_blank">Wisata Religi Kota Mekkah</a></ul>
+<br>
+
+<!-- unordered list (tidak ada nomer hanya titik)-->
+<ul>
+    <li>Home</li>
+    <li>Contact</li>
+    <li>Info</li>
+</ul>
+<br>
+    <ul>nomer 1</ul>
+    <ul>nomer 2</ul>
+    <ul>nomer 3</ul>
+
+
+</html>
